@@ -2,4 +2,3 @@ streamlit
 pandas
 openpyxl
 Xlsxwriter
-(pip install in VS code)
